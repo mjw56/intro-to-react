@@ -68,5 +68,4 @@ Going back to our previous metaphor
 
 ### Resources
 
-- [React.js for stupid people](http://blog.andrewray.me/reactjs-for-stupid-people/)
 - [How I learned to stop worrying and love React](https://firstdoit.com/how-i-learned-to-stop-worrying-and-love-react-4e22b0bb6c2a)
