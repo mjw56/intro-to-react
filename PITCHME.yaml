@@ -8,8 +8,8 @@ highlight: monokai
 
 slide-number: true
 
-# footnote: "© 2017 Sudharshan Ravindran"
-footnote: "gitpitch.com/suddi/intro-to-react"
+# footnote: "© 2019 Mike Wilcox"
+footnote: "gitpitch.com/mw56/intro-to-react"
 
 # mathjax: TeX-MML-AM_HTMLorMML-full
 
