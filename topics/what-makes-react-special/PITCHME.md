@@ -14,7 +14,7 @@ Companies using React:
 
 <iframe
 	class="jsfiddle"
-	src="https://jsfiddle.net/suddi/2paq5ygb/embedded/html,css,js,result/dark/"
+	src="https://jsfiddle.net/mjw56/prmb65L0/4/embedded/js,html,css,result/dark/"
 	allowfullscreen="allowfullscreen"
 	frameborder="0">
 </iframe>
