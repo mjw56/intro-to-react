@@ -2,8 +2,6 @@
 
 +++
 
-![Suddi](assets/img/suddi.jpg)
-
 <div class="align-points">
 	<i class="fa fa-user"></i> Mike Wilcox<br/>
 	<i class="fa fa-github"></i> [github.com/mjw56](https://github.com/mjw56)<br/>
