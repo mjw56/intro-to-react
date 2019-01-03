@@ -2,13 +2,7 @@
 
 +++
 
-Companies using React:
-
-- Facebook |
-- Netflix |
-- Paypal |
-- Twitter |
-- Yahoo |
+- [Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
 
 +++
 
@@ -22,8 +16,6 @@ Companies using React:
 
 +++
 
-What do you notice?
-
 - We are creating our own HTML-type elements |
 - The HTML is within the JavaScript (JSX) |
 
@@ -35,8 +27,8 @@ What do you notice?
 
 ### React is only the view layer
 
-- React components are just functions that accept input and return UI output (JSX is sugar on top of JavaScript functions to make them look like HTML)
-- React components can internally have their own state, but it's opt-in for every component
+- React components are just functions that accept input and return UI output (JSX is sugar) |
+- React components can internally have their own state (opt-in) |
 
 +++
 
@@ -44,7 +36,7 @@ What do you notice?
 
 - React maintains its own copy of the DOM in JavaScript |
 - Only changes are sent to the browser to be updated |
-- Calling setState in a component, it only re-renders from component called and all children recursively
+- Calling setState only re-renders from call site and below |
 
 +++
 
@@ -64,3 +56,4 @@ What do you notice?
 ### Resources
 
 - [How I learned to stop worrying and love React](https://firstdoit.com/how-i-learned-to-stop-worrying-and-love-react-4e22b0bb6c2a)
+- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
