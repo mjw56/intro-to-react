@@ -2,10 +2,6 @@
 
 +++
 
-- [Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
-
-+++
-
 <iframe
 	class="jsfiddle"
 	src="https://jsfiddle.net/mjw56/prmb65L0/embedded/js,html,css,result/dark/"
@@ -55,5 +51,5 @@
 
 ### Resources
 
-- [How I learned to stop worrying and love React](https://firstdoit.com/how-i-learned-to-stop-worrying-and-love-react-4e22b0bb6c2a)
+- [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
 - [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
