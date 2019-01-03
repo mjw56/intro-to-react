@@ -101,22 +101,19 @@ Other than HTML and CSS, we use:
 
 <div class="align-points">
 	<span class="fragment">
-		<i class="fa fa-check"></i> Easy to use components
+		<i class="fa fa-check"></i> components/code organization
 	</span><br/>
 	<span class="fragment">
-		<i class="fa fa-check"></i> Good code organization
+		<i class="fa fa-check"></i> Good testing story (Jest)
 	</span><br/>
 	<span class="fragment">
 		<i class="fa fa-check"></i> Can be used with the previous frameworks
 	</span><br/>
 	<span class="fragment">
-		<i class="fa fa-check"></i> Ease of debugging
+		<i class="fa fa-check"></i> One way data flow/Ease of debugging
 	</span><br/>
 	<span class="fragment">
 		<i class="fa fa-check"></i> Large community
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-check"></i> Flexible in use cases
 	</span><br/>
 	<span class="fragment">
 		<i class="fa fa-check"></i> Good routing story
@@ -125,7 +122,7 @@ Other than HTML and CSS, we use:
 		<i class="fa fa-check"></i> Lazy loading/Code Splitting
 	</span><br/>
 	<span class="fragment">
-		<i class="fa fa-check"></i> Hooks/Suspense
+		<i class="fa fa-check"></i> Hooks/Suspense (new features)
 	</span><br/>
 </div>
 
@@ -136,6 +133,12 @@ Other than HTML and CSS, we use:
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-close"></i> Not a complete framework (good fill-ins i.e. react router, redux (state management), css-in-js libraries
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-close"></i> Higher Order Components/Render Props patterns (problems that new Hooks API aims to solve)
+	</span><br/>
+		<span class="fragment">
+		<i class="fa fa-close"></i> Be aware of adding too many npm libraries and their file sizes (page bloat)
 	</span><br/>
 </div>
 
