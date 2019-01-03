@@ -13,6 +13,12 @@ Other than HTML and CSS, we use:
 		<i class="fa fa-tag"></i> Plain JavaScript
 	</span><br/>
 	<span class="fragment">
+		<i class="fa fa-tag"></i> PHP
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-tag"></i> jQuery
+	</span><br/>
+	<span class="fragment">
 		<i class="fa fa-tag"></i> Backbone
 	</span><br/>
 	<span class="fragment">
@@ -35,7 +41,7 @@ Other than HTML and CSS, we use:
 
 <iframe
 	class="jsfiddle"
-	src="https://jsfiddle.net/suddi/xmj93Lzd/embedded/html,css,js,result/dark/"
+	src="https://jsfiddle.net/mjw56/x1daq8by/embed/js,html,css,result/dark/"
 	allowfullscreen="allowfullscreen"
 	frameborder="0">
 </iframe>
@@ -80,103 +86,11 @@ Other than HTML and CSS, we use:
 
 +++
 
-### Backbone
-
-<iframe
-	class="jsfiddle"
-	src="https://jsfiddle.net/suddi/p86twx8a/embedded/html,css,js,result/dark/"
-	allowfullscreen="allowfullscreen"
-	frameborder="0">
-</iframe>
-
-+++
-
-### Backbone
-
-<div class="align-points">
-	<span class="fragment">
-		<i class="fa fa-check"></i> Simple interface
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-check"></i> Minimalistic
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-check"></i> Fast and lightweight
-	</span><br/>
-</div>
-
-+++
-
-### Backbone
-
-<div class="align-points">
-	<span class="fragment">
-		<i class="fa fa-close"></i> Lots of boilerplate code necessary
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-close"></i> Longer development time needed
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-close"></i> Need to have comprehensive understanding to build large projects
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-close"></i> Difficult to organize/structure code
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-close"></i> Memory leak issues
-	</span><br/>
-</div>
-
-+++
-
-### Angular
-
-<iframe
-	class="jsfiddle"
-	src="https://jsfiddle.net/suddi/m22zmcch/embedded/html,css,js,result/dark/"
-	allowfullscreen="allowfullscreen"
-	frameborder="0">
-</iframe>
-
-+++
-
-### Angular
-
-<div class="align-points">
-	<span class="fragment">
-		<i class="fa fa-check"></i> Easy to test
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-check"></i> Large community
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-check"></i> Good code organization
-	</span><br/>
-</div>
-
-+++
-
-### Angular
-
-<div class="align-points">
-	<span class="fragment">
-		<i class="fa fa-close"></i> Complexity of interface (Directives)
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-close"></i> Good feature support on browsers and mobile
-	</span><br/>
-	<span class="fragment">
-		<i class="fa fa-close"></i> Can become slow in large applications
-	</span><br/>
-</div>
-
-+++
-
 ### React
 
 <iframe
 	class="jsfiddle"
-	src="https://jsfiddle.net/suddi/2paq5ygb/embedded/html,css,js,result/dark/"
+	src="https://jsfiddle.net/mjw56/prmb65L0/embed/js,html,css,result/dark/"
 	allowfullscreen="allowfullscreen"
 	frameborder="0">
 </iframe>
@@ -204,6 +118,15 @@ Other than HTML and CSS, we use:
 	<span class="fragment">
 		<i class="fa fa-check"></i> Flexible in use cases
 	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-check"></i> Good routing story
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-check"></i> Lazy loading/Code Splitting
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-check"></i> Hooks/Suspense
+	</span><br/>
 </div>
 
 +++
@@ -212,7 +135,7 @@ Other than HTML and CSS, we use:
 
 <div class="align-points">
 	<span class="fragment">
-		<i class="fa fa-close"></i> Not a complete framework
+		<i class="fa fa-close"></i> Not a complete framework (good fill-ins i.e. react router, redux (state management), css-in-js libraries
 	</span><br/>
 </div>
 
