@@ -25,13 +25,7 @@ Companies using React:
 What do you notice?
 
 - We are creating our own HTML-type elements |
-- The HTML is within the JavaScript |
-
-+++
-
-Going back to our previous metaphor
-
-- The director is controlling the script directly
+- The HTML is within the JavaScript (JSX) |
 
 +++
 
@@ -41,15 +35,16 @@ Going back to our previous metaphor
 
 ### React is only the view layer
 
-- React only defines how it renders on the browser |
-- Other frameworks actually define how you handle data |
+- React components are just functions that accept input and return UI output (JSX is sugar on top of JavaScript functions to make them look like HTML)
+- React components can internally have their own state, but it's opt-in for every component
 
 +++
 
 ### React uses a virtual DOM
 
-- React maintains its own copy of the DOM |
+- React maintains its own copy of the DOM in JavaScript |
 - Only changes are sent to the browser to be updated |
+- Calling setState in a component, it only re-renders from component called and all children recursively
 
 +++
 
@@ -62,7 +57,7 @@ Going back to our previous metaphor
 
 ### React gives you readable, maintainable code
 
-- Everything is componentized |
+- Everything is a component |
 
 +++
 
