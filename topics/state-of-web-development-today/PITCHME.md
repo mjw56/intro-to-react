@@ -41,7 +41,7 @@ Other than HTML and CSS, we use:
 
 <iframe
 	class="jsfiddle"
-	src="https://jsfiddle.net/mjw56/x1daq8by/embed/js,html,css,result/dark/"
+	src="https://jsfiddle.net/mjw56/x1daq8by/embedded/js,html,css,result/dark/"
 	allowfullscreen="allowfullscreen"
 	frameborder="0">
 </iframe>
@@ -90,7 +90,7 @@ Other than HTML and CSS, we use:
 
 <iframe
 	class="jsfiddle"
-	src="https://jsfiddle.net/mjw56/prmb65L0/embed/js,html,css,result/dark/"
+	src="https://jsfiddle.net/mjw56/prmb65L0/embedded/js,html,css,result/dark/"
 	allowfullscreen="allowfullscreen"
 	frameborder="0">
 </iframe>
