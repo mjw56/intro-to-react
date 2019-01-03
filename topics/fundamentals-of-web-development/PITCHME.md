@@ -79,25 +79,6 @@ function handleClick() {
 
 +++
 
-### Consider a play
-
-- HTML is the script |
-- CSS is the costumes |
-- JS is the director |
-- Then who is the actor? |
-
-+++
-
-### Your browser
-
-<i class="fa fa-chrome"></i>
-<i class="fa fa-firefox"></i>
-<i class="fa fa-edge"></i>
-<i class="fa fa-safari"></i>
-<i class="fa fa-opera"></i>
-
-+++
-
 ### How does your browser render?
 
 +++
